@@ -7,7 +7,10 @@ class contoh1 extends CI_Controller
         echo "Nama saya Andi Rahman Alamsyah
         saya tinggal di daerah cengkareng 
         olahraga yang saya sukai adalah kamu ";
+
+        echo "saya mau jadi kelas bintang";
     }
 }
+
 
 ?>
